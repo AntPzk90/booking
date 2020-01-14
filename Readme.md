@@ -1,1 +1,1 @@
-https://github.com/AntPzk90/booking/
+https://antpzk90.github.io/booking/
